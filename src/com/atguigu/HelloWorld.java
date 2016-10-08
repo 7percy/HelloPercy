@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("要回家啦...");
 		System.out.println("就要回家啦...");
 		System.out.println("马上就要回家啦...");
-		System.out.println("要回家啦...");
+		System.out.println("我马上马上马上要回家啦...");
 	}
 	
 	
